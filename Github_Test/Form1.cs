@@ -11,5 +11,10 @@ namespace Github_Test
         {
             Console.WriteLine("Hello World");
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            "Make change"
+        }
     }
 }
