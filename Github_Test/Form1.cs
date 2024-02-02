@@ -14,7 +14,7 @@ namespace Github_Test
 
         private void label1_Click(object sender, EventArgs e)
         {
-            "Make change"
+            Console.WriteLine("Make change");
         }
     }
 }
